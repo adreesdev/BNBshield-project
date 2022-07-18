@@ -19,7 +19,7 @@ const Footer = () => {
 						<Grid
 							item
 							sm={6}
-							py={1}
+							p={2}
 							sx={{
 								display: "flex",
 								justifyContent: "flex-start",
